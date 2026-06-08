@@ -1,7 +1,7 @@
-# Academic-Portfolio-Data-Analytics
+# ACADEMIC PORTFOLIO - DATA ANALYTICS 
 Academic assessments and projects from my PGDip in Data Analytics, covering EDA, model training, and evaluation across models including Linear Regression, Logistic Regression, Naïve Bayes, and more.
 
-# PGDip Data Analytics — Assessments & Projects
+# PGDip Data Analytics - Assessments & Projects
 
 This repository contains academic assessments and projects completed as part of my **Postgraduate Diploma in Data Analytics**. Each folder represents a separate assessment and includes the notebook, any associated data files, and a README.
 
